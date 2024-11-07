@@ -11,9 +11,9 @@
   <a href="mailto:maureenwambugu41@gmail.com">
     <img src="https://img.shields.io/badge/Email-me-red?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/your-profile-link">
+ <a href="https://www.linkedin.com/in/maureen-wambugu-02596924b/">
     <img src="https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn" />
-  </a>
+</a>
 </div>
 
 ---
