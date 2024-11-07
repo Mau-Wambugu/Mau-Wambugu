@@ -1,6 +1,6 @@
 # Hi there! I'm Maureen Wambugu 👋
 
-### Data Science Enthusiast | Python & SQL Explorer | Aspiring Data Analyst
+### Data Science Enthusiast | Python & SQL Explorer | Data Analyst
 
 ---
 
