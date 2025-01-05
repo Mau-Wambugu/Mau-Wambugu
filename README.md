@@ -41,6 +41,30 @@
 
 ---
 
+- **[Cyberbullying Detection System](https://github.com/Mau-Wambugu)**                                                                                                                                                                
+  Created a detection model for identifying harmful language on social media, leveraging convolutional neural networks (CNN). Deployed a web application using HTML to raise awareness and reduce cyberbullying. Utilized a dataset from 
+   Hugging Face for training and evaluation.
+
+---
+
+- **[Aviation Accidents Analysis](https://github.com/Mau-Wambugu)**                                                                                                                                                                 
+  Conducted an analysis of aviation accident data to assist a company entering the aviation industry in identifying the safest aircraft for purchase and operation. Used Tableau to create an interactive dashboard, providing actionable 
+  insights on accident frequency and severity to support safety-focused decision-making and strategic growth.
+
+---
+
+- **[Film Industry Performance Analysis](https://github.com/Mau-Wambugu)**                                                                                                                                                           
+  Analyzed movie performance data from platforms such as Box Office Mojo, IMDB, Rotten Tomatoes, and The Numbers to identify high-performing film genres. Leveraged Python, SQL, and data visualization libraries to deliver insights 
+  guiding strategic decisions for a new movie studio.
+
+---
+
+- **[Fraudulent Job Postings Detection](https://github.com/Mau-Wambugu)**                                                                                                                                                            
+  Designed a classification system to detect fraudulent job postings, safeguarding users from scams and improving platform integrity. Utilized a Kaggle dataset containing 18K job descriptions and machine learning models such as Logistic 
+  Regression, Decision Trees, and Random Forest to build a robust predictive system.
+
+---
+
 ### 📈 My Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mau-Wambugu&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
